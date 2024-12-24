@@ -8,7 +8,9 @@
 
 - 🌱 I’m currently learning more about **Flutter, SwiftUI**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryanmviajedor" alt="ryanmviajedor" /></a> </p>
+<p align="center"><img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="600" height="300"/></p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryanmviajedor" alt="ryanmviajedor" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
